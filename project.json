@@ -1,0 +1,9 @@
+{
+  "name": "serval",
+  "description": "apex project",
+  "runtime": "golang",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::849936644670:role/serval_lambda_function",
+  "environment": {}
+}
